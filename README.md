@@ -1,5 +1,7 @@
 # Linear-Quadratic-Regulator-Optimal-Control-in-Cpp-From-Scratch-by-Using-Newton-Method
 
+FIRST, READ THE LICENSE AT THE END OF THIS FILE.
+
 We implemented a solution of the Linear Quadratic Regulator (LQR) Optimal Control problem in C++. We use the Newton method to solve the Riccati equation and to compute the solution. The webpage tutorial explaining this implementation is given here:
 
 https://aleksandarhaber.com/implementation-of-the-solution-of-the-linear-quadratic-regulator-lqr-control-algorithm-in-c-by-using-the-eigen-matrix-library/
